@@ -16,15 +16,15 @@ Users can:
 
 ## Getting Started
 
-- Clone the repository
+Clone the repository
 ```sh
 git clone git@github.com:DelfinaGoicoechea/Task-organizer.git
 ```
-- Install dependencies
+Install dependencies
 ```sh
 npm install
 ```
-- Run the development server
+Run the development server
 ```sh
 npm run dev
 ```
